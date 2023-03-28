@@ -20,6 +20,23 @@ A arduino based computer with various informations to replace the digital clock 
 
 
 
+## Tech Stack
+
+**Hardware:** 
+ - Arduino Nano 33 BLE
+ - DS3231 RTC (Real Time Clock)
+ - Oled 0.96 inch Screen
+
+**Software:** 
+- Arduino IDE
+- image2cpp
+- Git
+
+
+
+
+
+
 ## Useful Links
 
 [Toyota Futuristic Logo](https://www.dafont.com/mtheme.php?id=3&text=toyota)
